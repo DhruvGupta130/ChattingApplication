@@ -70,12 +70,6 @@ Provide your name when prompted, and start chatting!
 
 ---
 
-## 📸 Screenshots
-
-> 🖼 *Want me to create demo images or ASCII previews? Let me know!*
-
----
-
 ## 💡 Future Improvements
 
 ✨ Add a graphical (GUI) chat client
